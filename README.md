@@ -1,7 +1,7 @@
 Arecibo
 =======
 
-Reading the Arecibo message (1679 chars) from file (be.txt) and writing it into another file (ki.txt) in readable (23 rows x 73 cols) format.
+Reading the Arecibo message (1679 chars) from file (be.txt) and writing it into another file (ki.txt) in readable (73 rows x 23 cols) format.
 
 
 The Arecibo message (http://upload.wikimedia.org/wikipedia/commons/5/55/Arecibo_message.svg) was broadcast into space a single time via frequency modulated radio waves at a ceremony to mark the remodeling of the Arecibo radio telescope in Puerto Rico on 16 November 1974. It was aimed at the globular star cluster M13 some 25,000 light years away because M13 was a large and close collection of stars that was available in the sky at the time and place of the ceremony. The message consisted of 1679 binary digits, approximately 210 bytes, transmitted at a frequency of 2380 MHz and modulated by shifting the frequency by 10 Hz, with a power of 1000 kW. The "ones" and "zeros" were transmitted by frequency shifting at the rate of 10 bits per second. The total broadcast was less than three minutes.
